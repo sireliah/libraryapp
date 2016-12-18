@@ -1,0 +1,9 @@
+[
+{
+    "model": "bookapp.genre",
+    "pk": 1,
+    "fields": {
+        "name": "historical novel"
+    }
+}
+]

@@ -1,0 +1,20 @@
+[
+{
+    "model": "bookapp.book",
+    "pk": 1,
+    "fields": {
+        "author": 2,
+        "title": "Claudius the God: And His Wife Messalina",
+        "genre": [1]
+    }
+},
+{
+    "model": "bookapp.book",
+    "pk": 2,
+    "fields": {
+        "author": 1,
+        "title": "Robots of Dawn",
+        "genre": [1]
+    }
+}
+]
